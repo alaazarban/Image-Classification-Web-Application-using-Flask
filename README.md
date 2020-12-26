@@ -8,6 +8,10 @@ I have created an EC2 instance in AWS, uploaded all required fields, setup all s
 ## Resources used 
 
 <img src="https://www.gstatic.com/devrel-devsite/prod/veaa02889f0c07424beaa31d9bac1e874b6464e7ed7987fde4c94a59ace9487fa/tensorflow/images/lockup.svg" alt="tensorflow" width="300">
+"\t"
+<img src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" alt="Flask" width="300">
+
+
 
 
 
