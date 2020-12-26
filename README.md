@@ -7,5 +7,5 @@ I have created an EC2 instance in AWS, uploaded all required fields, setup all s
 
 ## Resources used 
 
-![TensorFlow](https://www.gstatic.com/devrel-devsite/prod/veaa02889f0c07424beaa31d9bac1e874b6464e7ed7987fde4c94a59ace9487fa/tensorflow/images/lockup.svg | width=250)
+![TensorFlow](https://www.gstatic.com/devrel-devsite/prod/veaa02889f0c07424beaa31d9bac1e874b6464e7ed7987fde4c94a59ace9487fa/tensorflow/images/lockup.svg){:height="700px" width="400px"}
 
